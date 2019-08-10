@@ -1,0 +1,32 @@
+2019-08-10 12:01:32.815[WARN]  biz-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 12:01:33.398[WARN]  resttemplate-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 12:01:43.495[WARN]  spring-mvc-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 12:06:57.810[WARN]  biz-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 12:06:58.047[WARN]  resttemplate-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 12:07:03.301[WARN]  spring-mvc-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 12:10:04.188[WARN]  biz-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 12:10:04.427[WARN]  resttemplate-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 12:10:08.865[WARN]  spring-mvc-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 13:48:16.535[WARN]  biz-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 13:48:16.782[WARN]  resttemplate-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 13:48:23.221[WARN]  spring-mvc-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 13:57:23.833[WARN]  resttemplate-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 13:57:33.009[WARN]  spring-mvc-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 13:58:46.477[WARN]  resttemplate-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 13:59:01.125[WARN]  spring-mvc-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 13:59:57.541[WARN]  resttemplate-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 14:00:11.204[WARN]  spring-mvc-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 14:01:03.267[WARN]  resttemplate-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 14:01:10.029[WARN]  spring-mvc-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 14:43:32.896[WARN]  resttemplate-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 14:43:37.016[WARN]  spring-mvc-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 14:48:16.804[WARN]  resttemplate-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 14:48:23.361[WARN]  spring-mvc-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 14:48:23.394[ERROR] Cannot set tag to component. current component is [flexible-biz]
+2019-08-10 14:48:23.394[ERROR] Cannot set tag to component. current component is [flexible-biz]
+2019-08-10 14:48:23.394[ERROR] Cannot set tag to component. current component is [flexible-biz]
+2019-08-10 14:50:03.289[ERROR] Cannot set tag to component. current component is [flexible-biz]
+2019-08-10 14:50:03.289[ERROR] Cannot set tag to component. current component is [flexible-biz]
+2019-08-10 14:50:03.290[ERROR] Cannot set tag to component. current component is [flexible-biz]
+2019-08-10 15:17:09.079[WARN]  resttemplate-stat.log configured stat_log_interval=60 second and default cycle=60
+2019-08-10 15:17:12.740[WARN]  spring-mvc-stat.log configured stat_log_interval=60 second and default cycle=60
